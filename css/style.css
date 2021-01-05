@@ -599,7 +599,8 @@ margin: 1rem ;
 
 
 section.subscribe{
-    background: var(--primary)
+    background: grey;
+    margin:0.25rem
 }
 
 section.subscribe .container>div:first-child img{
