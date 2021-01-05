@@ -695,6 +695,7 @@ section.contact-us .contact-info >div >div >div span:first-child{
 footer{
     background: var(--footer);
     padding: 4rem 0;
+    margin-bottom: -33rem;
 }
 footer .container{
     display: flex;
@@ -755,6 +756,7 @@ footer .box:nth-child(3) h3{
 }
 footer .box:nth-child(3) >div img{
     margin-right: 1rem;
+    
 }
 
 footer .box:nth-child(3) ul li{
